@@ -10,8 +10,9 @@ gem 'noty-rails'
 Look at the [official installation instructions](http://needim.github.com/noty/#installation)
 
 ## Where to put require statement
-Since you can set some default config of Noty including layout
-I think it is more sensible to put the require statements in the same file (As you have to require the layout and theme files you need)
+Since you can set some default config of Noty including layout  
+I think it is more sensible to put the require statements in the same file  
+As you have to require the layout and theme files you need
 ```coffeescript
 # app/assets/javascripts/shared/flashes/noty-config.js.coffee
 #= require noty/jquery.noty
