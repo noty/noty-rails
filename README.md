@@ -27,6 +27,10 @@ $.noty.defaults.layout = 'bottom'
 
 # Changelog
 
+### 2.1.0
+
+- Update Noty to `2.1.0`
+
 ### 2.0.3.1
 
 - Make it compatible with Rails 4 version (Now is an instance of `Gem::Version`)
