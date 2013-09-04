@@ -10,6 +10,7 @@ Gem::Specification.new do |s|
   s.homepage    = "https://github.com/noty/noty-rails"
   s.summary     = "Noty asset pipeline provider/wrapper"
   s.description = "This gem provides Noty, a jQuery Notification Plugin, for your Rails application."
+  s.license     = 'MIT'
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
