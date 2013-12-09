@@ -27,6 +27,10 @@ $.noty.defaults.layout = 'bottom'
 
 # Changelog
 
+### 2.1.4
+
+- Update Noty to `2.1.4`
+
 ### 2.1.0.1
 
 - Add MIT Licence to gemspec
