@@ -1,5 +1,5 @@
 module Noty
   module Rails
-    VERSION = "2.1.4"
+    VERSION = "2.2.0".freeze
   end
 end
