@@ -1,5 +1,12 @@
 Rails asset-pipeline gem to provide [Noty](http://needim.github.com/noty/)
 
+# Deprecation Note
+There are multiple ways for managing this JS library already (or any library that is supported by bower):
+- [bower-rails](https://github.com/rharriso/bower-rails)
+- [Rails Assets](https://rails-assets.org/)
+
+This gem will be updated until a major release is done in the upstream.
+
 # Install
 ```ruby
 gem 'noty-rails'
