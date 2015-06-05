@@ -34,6 +34,10 @@ $.noty.defaults.layout = 'bottom'
 
 # Changelog
 
+### 2.3.5
+
+- Update Noty to `2.3.5`
+
 ### 2.3.4
 
 - Update Noty to `2.3.4`
