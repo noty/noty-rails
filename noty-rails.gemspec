@@ -17,6 +17,8 @@ Gem::Specification.new do |s|
   s.executables   = `git ls-files -- bin/*`.split("\n").map{ |f| File.basename(f) }
   s.require_paths = ["lib"]
 
+  s.add_development_dependency "gem-release", ">= 0.7"
+
   s.post_install_message = %Q(
     This gem is deprecated.
     Please read the deprecation note on README.
